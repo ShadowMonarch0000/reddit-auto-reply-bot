@@ -19,6 +19,3 @@ The bot uses Reddit’s API to monitor comments in selected subreddits and posts
 - Learning API integration
 - Understanding bots and automation
 - Practicing conditional logic in real-world applications
-
-## Note
-This project is created for educational purposes and follows Reddit API usage guidelines.
