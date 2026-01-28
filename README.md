@@ -10,12 +10,12 @@ The bot uses Reddit’s API to monitor comments in selected subreddits and posts
 - Avoids duplicate replies
 - Easy to customize conditions and responses
 
-## Technologies Used
-- Python
-- Reddit API (PRAW)
-- Automation and scripting concepts
-
 ## Use Cases
 - Learning API integration
 - Understanding bots and automation
 - Practicing conditional logic in real-world applications
+
+## Technologies Used
+- Python
+- Reddit API (PRAW)
+- Automation and scripting concepts
