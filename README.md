@@ -15,6 +15,14 @@ The bot uses Reddit’s API to monitor comments in selected subreddits and posts
 - Understanding bots and automation
 - Practicing conditional logic in real-world applications
 
+## Screenshots
+
+### Bot Monitoring Comments
+![Monitoring](images/bot-running.png)
+
+### Automatic Reply Example
+![Reply](images/comment-reply.png)
+
 ## Technologies Used
 - Python
 - Reddit API (PRAW)
